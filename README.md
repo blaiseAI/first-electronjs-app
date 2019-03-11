@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/blaiseAI/first-electronjs-app/blob/master/SplashScreem.PNG "Logo Title Text 1")
 
-- Dashboard
+- Dashboard (MDI Container)
 
 ![alt text](https://github.com/blaiseAI/first-electronjs-app/blob/master/Dashboard.PNG "Logo Title Text 1")
 
